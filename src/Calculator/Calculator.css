@@ -1,0 +1,16 @@
+.calApp {
+    background-color: cadetblue;
+    width: 400px;
+    padding: 30px;
+    margin: 0 auto;
+    color: white;
+}
+
+.result {
+    position: relative;
+    width: 250px;
+    background-color: coral;
+    color: blue;
+    top: 20px;
+    float: left;
+}
